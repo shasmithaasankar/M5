@@ -147,8 +147,12 @@ Step 5: Loop from i = 0 to i < n:
 Step 6: End the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/a6695cc6-753f-4ec7-a736-bb4671193471)
+
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/356f754b-883c-45d6-84c3-c7a642e3825a)
+
 
  
 
